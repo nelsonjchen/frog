@@ -1,6 +1,13 @@
-frog
-====
+# frog
 
-A media acquisition and sorting framework
+A Clojure library designed to ... well, that part is up to you.
 
-Not much here right now. The transactions system is kinda neat though.
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2012 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
